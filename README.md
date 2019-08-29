@@ -1,4 +1,4 @@
-# AR_CAD
+# Augmented Reality CAD
 
 The goal of this repository is to allow people interested in advancing Augmented Reality through making a CAD application
 
